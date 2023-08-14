@@ -1,0 +1,1612 @@
+{
+	"uid": "7**4824",
+	"history": [{
+		"gacha_type": "301",
+		"time": "2023-08-12 12:37:14",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-12 10:52:10",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-12 10:52:07",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-12 10:52:04",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-12 10:51:41",
+		"name": "Faruzan",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-12 10:51:35",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-12 10:48:19",
+		"name": "Lost Prayer to the Sacred Winds",
+		"rank_type": "5",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-12 09:30:33",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-12 09:18:55",
+		"name": "Favonius Warbow",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-12 09:18:50",
+		"name": "Emerald Orb",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-12 05:41:17",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-12 04:30:28",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-12 03:55:03",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-12 03:34:41",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-12 00:29:02",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-12 00:27:15",
+		"name": "Sucrose",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-12 00:02:32",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-11 23:44:05",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-11 23:44:01",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-11 22:04:03",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-11 22:01:03",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-09 00:57:45",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-09 00:57:32",
+		"name": "Sacrificial Greatsword",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-07 15:15:12",
+		"name": "Yanfei",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-06 16:12:07",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-06 13:46:07",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-06 13:46:04",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-06 13:46:01",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-06 13:45:56",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-05 12:28:32",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-05 10:42:57",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-04 16:56:11",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-04 16:56:06",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-04 14:56:24",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-04 14:30:07",
+		"name": "Rainslasher",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-04 12:59:03",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-04 12:58:57",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-04 11:40:09",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-04 09:52:43",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-04 09:52:38",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-04 06:51:47",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-04 06:50:11",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-04 06:49:23",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-04 06:49:05",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-03 07:38:11",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-03 07:38:06",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-03 05:12:07",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-03 05:11:56",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-03 05:11:47",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-03 05:11:41",
+		"name": "Rosaria",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-03 05:11:36",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-03 01:38:34",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-02 14:15:04",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-02 14:15:00",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-02 14:14:54",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-02 14:14:49",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-02 14:14:42",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-02 07:26:22",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-02 01:30:06",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-02 00:59:07",
+		"name": "Thoma",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-02 00:58:53",
+		"name": "Eye of Perception",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-08-01 21:35:01",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-01 21:34:32",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-01 21:34:10",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-01 21:34:07",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-01 21:34:04",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-01 21:34:02",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-01 21:34:00",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-08-01 21:33:54",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-31 22:46:57",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-31 21:31:01",
+		"name": "Faruzan",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-31 21:30:53",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-30 18:46:26",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-30 15:35:15",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-30 15:35:10",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-30 15:33:56",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-30 15:33:51",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-30 15:33:28",
+		"name": "Yanfei",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-30 15:32:56",
+		"name": "Rosaria",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-30 15:32:51",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-30 15:32:47",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-30 15:32:43",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-29 21:14:22",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-29 21:14:18",
+		"name": "Emerald Orb",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-29 21:11:54",
+		"name": "Beidou",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-29 21:10:44",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-29 21:10:38",
+		"name": "Emerald Orb",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-28 15:22:34",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-28 15:22:30",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-28 15:22:23",
+		"name": "Sacrificial Bow",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-28 13:20:48",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-27 14:17:39",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-27 14:17:36",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-27 14:17:32",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-27 11:36:29",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-27 11:35:00",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-27 11:34:18",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-27 11:34:15",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-27 11:34:13",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-27 11:34:10",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-27 11:34:07",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-27 11:34:00",
+		"name": "Faruzan",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-27 11:33:55",
+		"name": "Emerald Orb",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-27 11:33:52",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2023-07-27 11:33:46",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 17:02:47",
+		"name": "Lost Prayer to the Sacred Winds",
+		"rank_type": "5",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 17:02:35",
+		"name": "Emerald Orb",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 17:02:35",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 17:02:35",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 17:02:35",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 17:02:35",
+		"name": "Emerald Orb",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 17:02:35",
+		"name": "Favonius Lance",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 17:02:35",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 17:02:35",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 17:02:35",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 17:02:35",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-25 14:18:08",
+		"name": "Eye of Perception",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-25 14:18:04",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-25 08:49:33",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-25 08:49:28",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 08:49:05",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 08:48:42",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 08:48:42",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 08:48:42",
+		"name": "Rainslasher",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 08:48:42",
+		"name": "Emerald Orb",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 08:48:42",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 08:48:42",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 08:48:42",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 08:48:42",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 08:48:42",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-25 08:48:42",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-24 16:11:06",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-24 16:09:49",
+		"name": "Gorou",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-24 16:09:36",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-24 16:09:33",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-24 16:09:31",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-24 16:09:28",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-24 16:09:25",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-24 16:09:21",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 16:08:47",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 16:08:47",
+		"name": "The Alley Flash",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 16:08:47",
+		"name": "Rainslasher",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 16:08:47",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 16:08:47",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 16:08:47",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 16:08:47",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 16:08:47",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 16:08:47",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 16:08:47",
+		"name": "The Alley Flash",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 08:50:25",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 08:50:25",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 08:50:25",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 08:50:25",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 08:50:25",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 08:50:25",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 08:50:25",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 08:50:25",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 08:50:25",
+		"name": "The Alley Flash",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-24 08:50:25",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-24 05:48:47",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-24 05:29:17",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:51",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:44",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:07",
+		"name": "Emerald Orb",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:07",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:07",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:07",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:07",
+		"name": "Emerald Orb",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:07",
+		"name": "Favonius Lance",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:07",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:07",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:07",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-23 06:23:07",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2023-07-22 12:59:44",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-22 12:57:41",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-22 12:57:30",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-22 12:57:23",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-22 12:56:15",
+		"name": "Rainslasher",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-22 12:56:10",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-22 12:55:42",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-22 12:55:36",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-22 12:55:30",
+		"name": "The Alley Flash",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-22 12:55:24",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "302",
+		"time": "2023-07-22 12:55:16",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "400",
+		"time": "2023-07-22 12:54:35",
+		"name": "Klee",
+		"rank_type": "5",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "400",
+		"time": "2023-07-22 12:54:28",
+		"name": "Favonius Sword",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "400",
+		"time": "2023-07-22 12:54:15",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-28 18:47:48",
+		"name": "The Widsith",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-28 17:56:03",
+		"name": "Thoma",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-28 17:55:58",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-28 09:49:00",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-28 09:48:51",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-27 10:36:35",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-26 20:20:17",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-26 20:20:07",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-26 20:20:01",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-26 18:52:32",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-26 18:39:51",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-26 18:39:39",
+		"name": "The Bell",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-26 18:39:37",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-26 18:39:34",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-26 18:39:27",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-26 00:40:44",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-26 00:40:24",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-26 00:40:17",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-25 23:14:56",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-25 23:14:45",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 23:14:32",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 23:14:29",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-25 23:14:25",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-25 23:14:22",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-25 23:14:18",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-25 23:13:58",
+		"name": "The Bell",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-25 23:13:55",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-25 23:13:53",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-25 23:13:48",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 23:13:09",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 23:13:04",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 23:12:57",
+		"name": "Layla",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 23:12:51",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 23:12:47",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 23:12:43",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 23:12:37",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 03:21:50",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 03:21:50",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 03:21:50",
+		"name": "Layla",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 03:21:50",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 03:21:50",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 03:21:50",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 03:21:50",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 03:21:50",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 03:21:50",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-25 03:21:50",
+		"name": "Lion's Roar",
+		"rank_type": "4",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-24 15:13:06",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 14:22:04",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 08:38:49",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:57:32",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:57:32",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:57:32",
+		"name": "Emerald Orb",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:57:32",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:57:32",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:57:32",
+		"name": "Thrilling Tales of Dragon Slayers",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:57:32",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:57:32",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:57:32",
+		"name": "Layla",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:57:32",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 05:57:18",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 05:57:12",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:55:56",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:55:56",
+		"name": "Skyrider Sword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:55:56",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:55:56",
+		"name": "Cool Steel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:55:56",
+		"name": "Harbinger of Dawn",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:55:56",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:55:56",
+		"name": "Debate Club",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:55:56",
+		"name": "Raven Bow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:55:56",
+		"name": "Kujou Sara",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "301",
+		"time": "2022-11-23 05:55:56",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 04:10:26",
+		"name": "Kujou Sara",
+		"rank_type": "4",
+		"item_type": "Character"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 04:10:26",
+		"name": "Magic Guide",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 04:10:26",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 04:10:26",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 04:10:26",
+		"name": "Sharpshooter's Oath",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 04:10:26",
+		"name": "Ferrous Shadow",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 04:10:26",
+		"name": "Slingshot",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 04:10:26",
+		"name": "Bloodtainted Greatsword",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 04:10:26",
+		"name": "Emerald Orb",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}, {
+		"gacha_type": "200",
+		"time": "2022-11-23 04:10:26",
+		"name": "Black Tassel",
+		"rank_type": "3",
+		"item_type": "Weapon"
+	}]
+}
