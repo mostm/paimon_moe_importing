@@ -125,7 +125,7 @@ def fill_history(wb: Workbook, banners: list[dict], wish_history: list[dict]):
         entry.append(roll_count[banner['name']])
 
         # Group
-        entry.append(roll_count[banner['name']])  # IDK what this is
+        entry.append(roll_count[banner['name']])  # Example: if 10-pull, they all belong to one group. Resets for each banner.
 
         # Banner
         entry.append(banner['name'])

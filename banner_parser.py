@@ -101,7 +101,7 @@ def parse_page(page_text):
 
 
 def main():
-    page = load_page_static()
+    page = load_page()
     banners = parse_page(page)
     with open('banner_history.json', 'w') as f:
         json.dump(banners, f, indent=4)
