@@ -155,6 +155,9 @@ def generate_history():
 
     fill_history(wb, banners, reversed(genshin_wish_history['history']))
 
+    # Information sheet needs to have "Paimon.moe Wish History Export" in A1 or the improt fails according to paimon.moe's source code
+    wb['Information']['A1'] = 'Paimon.moe Wish History Export'
+
     wb.save('generated_history.xlsx')
 
     return
