@@ -24,12 +24,16 @@ def load_page():
 
 
 def load_page_static():
-    with open('banner_history_wiki\Wish History _ Genshin Impact Wiki _ Fandom.html', 'r') as f:
-        return f.read()
+    try:
+        with open('banner_history_wiki\Wish History _ Genshin Impact Wiki _ Fandom.html', 'r') as f:
+            return f.read()
+    except UnicodeDecodeError as e:
+        with open('banner_history_wiki\Wish History _ Genshin Impact Wiki _ Fandom.html', 'r', encoding="utf8") as f:
+            return f.read()
 
 
 def parse_table(table: Tag):
-    header = table.find('thead')
+    header = table.find('tbody') # thead doesn't exist for me
     header_row = header.find('tr')
     header_cells = header_row.find_all('th')
     header_titles = [x.text.strip() for x in header_cells]
@@ -39,7 +43,7 @@ def parse_table(table: Tag):
         return None
 
     body = table.find('tbody')
-    body_rows = body.find_all('tr')
+    body_rows = body.find_all('tr')[1:] # as thead doesn't exist for me, I add [1:]
 
     reset_time = time(hour=5, minute=0, second=0)  # UTC+1 == Europe
 
@@ -89,7 +93,7 @@ def parse_page(page_text):
     results = []
 
     soup = BeautifulSoup(page_text, 'lxml')
-    tables = soup.find_all('table', class_='article-table alternating-colors-table sortable jquery-tablesorter')
+    tables = soup.find_all('table', class_='article-table alternating-colors-table sortable') # jquery-tablesorter is added after opening the page, it doesn't exist when you wget.
     for table in tables:
         results += parse_table(table)
 
