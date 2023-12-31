@@ -125,7 +125,7 @@ def fill_history(wb: Workbook, banners: list[dict], wish_history: list[dict]):
         entry.append(roll_count[banner['name']])
 
         # Group
-        entry.append(roll_count[banner['name']])  # IDK what this is
+        entry.append(roll_count[banner['name']])  # Example: if 10-pull, they all belong to one group. Resets for each banner.
 
         # Banner
         entry.append(banner['name'])
@@ -154,6 +154,9 @@ def generate_history():
     wb.create_sheet('Information')
 
     fill_history(wb, banners, reversed(genshin_wish_history['history']))
+
+    # Information sheet needs to have "Paimon.moe Wish History Export" in A1 or the improt fails according to paimon.moe's source code
+    wb['Information']['A1'] = 'Paimon.moe Wish History Export'
 
     wb.save('generated_history.xlsx')
 
